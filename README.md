@@ -10,7 +10,7 @@ Just clone the repo:
 Install Node dependencies  
 `$ npm install`
 
-Open the config.js and configure
+Open the `config.js` and configure
   - your Discord webhook url (`WEBHOOK_URL`)
   - the ZonaProp search url (with filters and parameters) (`SEARCH_URL`)
 
